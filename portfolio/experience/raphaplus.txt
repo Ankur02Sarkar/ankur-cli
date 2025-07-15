@@ -1,0 +1,6 @@
+RAPHAPLUS | React Developer
+
+Bengaluru, IN | July 2024 – Present
+• Developed a chat system using Firebase, enhancing communication and real-time data synchronization by 15%.
+• Spearheaded the creation of Doctor Consultation, Health Management and PWA features, delivering user-centric solutions that amplified patient engagement by 12% and refined healthcare workflow efficiency.
+• Collaborated with cross-functional teams to implement responsive design patterns, improving user retention by 10%.

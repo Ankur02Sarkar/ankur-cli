@@ -1,0 +1,7 @@
+FOTOROOM || AI PHOTO EDITOR
+
+TypeScript, NextJS, MongoDB, Cloudinary, Stripe
+Demo | Live
+• Designed and orchestrated features including AI Image Restore, Generative Fill, Object Remove, and Background Remove, enhancing editing capabilities by 50%.
+• Integrated Stripe for secure payments thereby optimizing the transaction process by 20%.
+• Leveraged Cloudinary for efficient image storage and manipulation, reducing server load by 30%.

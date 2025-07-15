@@ -1,0 +1,7 @@
+APPOINTX || SCHEDULE YOUR MEETINGS SUPERFAST
+
+NextJS, Tailwind, Google Calendar API
+Demo | Live
+• Automated scheduling by integrating Google Calendar API and generating Meet invites directly to users’ emails.
+• Streamlined event creation with customizable public and private options, allowing visitors to book appointments based on real-time availability thereby increasing engagement by 40%.
+• Enhanced UI/UX with a responsive interface using Nextjs and Tailwind, making schedule management effortless.

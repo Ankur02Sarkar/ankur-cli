@@ -1,0 +1,6 @@
+CURATEIT | Software Development Engineer
+
+Remote, UK | April 2023 – May 2024
+• Designed and implemented 12+ features, increasing user engagement by 18% through improved UX/UI patterns.
+• Overhauled the development of AI Assistant Bots, resulting in a 12% improvement in user satisfaction surveys based on response accuracy and speed
+• Implemented code review processes and testing protocols decreasing bug reports by 25% in production releases.

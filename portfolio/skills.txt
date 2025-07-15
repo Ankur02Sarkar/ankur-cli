@@ -1,0 +1,5 @@
+Skills
+
+Languages: C, C++, Python
+Web/App Development: JavaScript, TypeScript, ReactJS, NextJS, React Native, NodeJS, TailwindCSS, ShadcnUI
+Misc: MongoDB, SQL, Git, FastAPI, AWS, Figma, Firebase, Web Scraping, Extensions Development, Automation

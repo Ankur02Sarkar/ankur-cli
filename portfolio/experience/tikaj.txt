@@ -1,0 +1,5 @@
+TIKAJ TECHNOLOGIES | SDE Intern
+
+Remote, IN | Jan 2023 - Mar 2023
+• Engineered applications using VueJS and Linux, decreased development time by 20% through automation scripts.
+• Boosted application efficiency for 500+ users through optimized deployment pipelines.

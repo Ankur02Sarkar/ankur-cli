@@ -1,0 +1,6 @@
+BRIDGE || REALTIME COLLABORATION PLATFORM
+
+TypeScript, NextJS, Clerk Auth, Tailwind
+Demo | Live
+• Unleashed real-time collaboration, undo/redo capabilities, real-time cursors, enhancing user interaction and productivity using Liveblocks and Convex DB.
+• Integrated secure authentication with Clerk, styled with TailwindCSS and ShadcnUI improving UI/UX by 20%.

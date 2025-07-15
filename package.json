@@ -1,13 +1,12 @@
 {
   "name": "ankur-cli",
-  "module": "index.ts",
+  "version": "1.0.0",
+  "description": "Interactive CLI portfolio (npx ankur)",
+  "bin": {
+    "ankur": "./bin/ankur.js"
+  },
   "type": "module",
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5"
-  },
+  "engines": { "node": ">=18" },
   "dependencies": {
     "boxen": "^8.0.1",
     "chalk": "^5.4.1",
@@ -18,6 +17,20 @@
     "open": "^10.2.0",
     "ora": "^8.2.0",
     "play-sound": "^1.1.6",
-    "tabtab": "^3.0.2"
-  }
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "portfolio"
+  ],
+  "keywords": ["portfolio", "cli", "npx"],
+  "author": "Ankur • Bengaluru",
+  "license": "MIT"
 }
