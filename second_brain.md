@@ -19,6 +19,7 @@
 
 ## 🐞 Known Issues / Refactors
 - Resolved SyntaxError in enquirer import for contact.js.
+- Resolved ls and cd commands showing system files by implementing virtual path handling in fs.js.
 
 ## 🏛️ Architectural Decisions
 - Use Bun for runtime and package management.
@@ -26,3 +27,4 @@
 - Modular structure for commands and themes.
 - Content in portfolio/ as text files for easy access.
 - Ensured theme-aware coloring across commands.
+- Virtual file system to restrict access to portfolio directory.
