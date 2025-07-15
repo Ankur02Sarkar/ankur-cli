@@ -1,0 +1,23 @@
+{
+  "name": "ankur-cli",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "cli-spinners": "^3.2.0",
+    "enquirer": "^2.4.1",
+    "figlet": "^1.8.2",
+    "gradient-string": "^3.0.0",
+    "open": "^10.2.0",
+    "ora": "^8.2.0",
+    "play-sound": "^1.1.6",
+    "tabtab": "^3.0.2"
+  }
+}

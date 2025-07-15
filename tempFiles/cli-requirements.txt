@@ -1,0 +1,89 @@
+Project Directory structure :- 
+
+ankur-cli/
+├── bin/
+│   └── ankur.js           # Entry point advertised by "npx ankur"
+├── lib/
+│   ├── core/
+│   │   ├── banner.js      # Animated ASCII splash
+│   │   ├── colors.js      # Chalk/gradient helpers
+│   │   ├── fs.js          # Virtual FS wrapper over /portfolio
+│   │   ├── history.js     # Arrow-key history manager
+│   │   └── shell.js       # REPL loop, command router
+│   ├── commands/
+│   │   ├── cd.js
+│   │   ├── ls.js
+│   │   ├── cat.js
+│   │   ├── search.js
+│   │   ├── theme.js
+│   │   ├── music.js
+│   │   ├── contact.js
+│   │   ├── download.js
+│   │   ├── help.js
+│   │   └── easter.js      # fortune, matrix, sudo
+│   └── themes/
+│       ├── dark.js
+│       ├── light.js
+│       ├── hacker.js
+│       └── solarized.js
+├── portfolio/             # Markdown / text assets supplied by you
+│   ├── about.txt
+│   ├── skills/
+│   ├── projects/
+│   ├── experience/
+│   ├── achievements.txt
+│   ├── contact.txt
+│   ├── social/
+│   ├── resume.pdf
+│   ├── theme/
+│   ├── music/
+│   └── easter-eggs/
+├── package.json
+└── README.md
+
+
+package.json :- 
+{
+  "name": "ankur-cli",
+  "version": "1.0.0",
+  "description": "Interactive CLI portfolio (npx ankur)",
+  "bin": {
+    "ankur": "./bin/ankur.js"
+  },
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "cli-spinners": "^4.2.0",
+    "enquirer": "^2.4.0",
+    "figlet": "^1.6.0",
+    "gradient-string": "^2.0.2",
+    "node-qr": "^4.0.0",
+    "open": "^9.1.0",
+    "ora": "^6.3.1",
+    "play-sound": "^1.2.0",
+    "tabtab": "^3.0.2"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "portfolio"
+  ],
+  "keywords": ["portfolio", "cli", "npx"],
+  "author": "Ankur • Bengaluru",
+  "license": "MIT"
+}
+
+
+opening :-
+         ___       _                _         
+        / _ \_   _(_) ___ _ __ ___ | |__  ___ 
+       / /_)/ | | | |/ __| '_ ` _ \| '_ \/ __|
+      / ___/| |_| | | (__| | | | | | |_) \__ \
+      \/     \__,_|_|\___|_| |_| |_|_.__/|___/
+                                             
+      Welcome to Ankur’s Interactive Portfolio
+      Bengaluru, India | npx ankur
+      Type `help` for commands.
+

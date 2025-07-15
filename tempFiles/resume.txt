@@ -1,0 +1,73 @@
+Ankur Sarkar
+
+ankur02sarkar@gmail.com | +917449600707 | ankursarkar.vercel.app | linkedin.com/in/ankur-sarkar | github.com/Ankur02Sarkar
+
+SKILLS
+Languages: C, C++, Python
+Web/App Development: JavaScript, TypeScript, ReactJS, NextJS, React Native, NodeJS, TailwindCSS, ShadcnUI
+Misc: MongoDB, SQL, Git, FastAPI, AWS, Figma, Firebase, Web Scraping, Extensions Development, Automation
+
+WORK EXPERIENCE
+RAPHAPLUS | React Developer
+
+Bengaluru, IN | July 2024 – Present
+• Developed a chat system using Firebase, enhancing communication and real-time data synchronization by 15%.
+• Spearheaded the creation of Doctor Consultation, Health Management and PWA features, delivering user-centric
+solutions that amplified patient engagement by 12% and refined healthcare workflow efficiency.
+• Collaborated with cross-functional teams to implement responsive design patterns, improving user retention by 10%.
+
+CURATEIT | Software Development Engineer
+
+Remote, UK | April 2023 – May 2024
+• Designed and implemented 12+ features, increasing user engagement by 18% through improved UX/UI patterns.
+• Overhauled the development of AI Assistant Bots, resulting in a 12% improvement in user satisfaction surveys based
+on response accuracy and speed
+• Implemented code review processes and testing protocols decreasing bug reports by 25% in production releases.
+
+TIKAJ TECHNOLOGIES | SDE Intern
+
+Remote, IN | Jan 2023 - Mar 2023
+• Engineered applications using VueJS and Linux, decreased development time by 20% through automation scripts.
+• Boosted application efficiency for 500+ users through optimized deployment pipelines.
+
+PROJECTS
+APPOINTX || SCHEDULE YOUR MEETINGS SUPERFAST 
+
+NextJS, Tailwind, Google Calendar API
+Demo | Live
+• Automated scheduling by integrating Google Calendar API and generating Meet invites directly to users’ emails.
+• Streamlined event creation with customizable public and private options, allowing visitors to book appointments
+based on real-time availability thereby increasing engagement by 40%.
+• Enhanced UI/UX with a responsive interface using Nextjs and Tailwind, making schedule management effortless.
+
+FOTOROOM || AI PHOTO EDITOR 
+
+TypeScript, NextJS, MongoDB, Cloudinary, Stripe
+Demo | Live
+• Designed and orchestrated features including AI Image Restore, Generative Fill, Object Remove, and Background
+Remove, enhancing editing capabilities by 50%.
+• Integrated Stripe for secure payments thereby optimizing the transaction process by 20%.
+• Leveraged Cloudinary for efficient image storage and manipulation, reducing server load by 30%.
+
+BRIDGE || REALTIME COLLABORATION PLATFORM 
+
+TypeScript, NextJS, Clerk Auth, Tailwind
+Demo | Live
+• Unleashed real-time collaboration, undo/redo capabilities, real-time cursors, enhancing user interaction and
+productivity using Liveblocks and Convex DB.
+• Integrated secure authentication with Clerk, styled with TailwindCSS and ShadcnUI improving UI/UX by 20%.
+
+ACHIEVEMENTS
+• Diversion (Hackathon) - Replit and 5ireLabs Track winner among 700+ fellow Hackers.
+• WebDev Lead at GDSC JISCE- Conducted 6 offline events impacting 200+ students.
+• Wonderathon (AR Hackathon) Winner - Built multiple AR Filter Apps using Meta Spark AR
+
+EDUCATION
+B. Tech in Electronics and Communications Engineering
+JIS College Of Engineering
+CGPA : 8.79
+
+Kalyani, India | Oct 2020 - May 2024
+
+
+Pdf link :- https://fxtdjnbrtkkxavebmtwc.supabase.co/storage/v1/object/public/resumes/Ankur_Sarkar___Resume_v4_17_23.pdf
